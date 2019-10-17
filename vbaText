@@ -1,0 +1,56 @@
+vba: visual basic application 
+tools:any ms office application we can use vba(ex:word/excel/powerpoint)
+ excel (calculation )
+ 
+:Go to Developer menu and use or  alt+f11 then open vba 
+
+value(data):any numeric or alphanumeric or any special symbol(!@#)
+
+valye any type(data type)
+	
+	numeric 
+		integer
+		float
+		double
+	char
+		string 
+			""/''
+			9 :number
+			"9" string
+	array
+		range
+
+    
+value use from two types:
+  direct way
+using variable
+		variable:is a memory location where we can store our value 
+
+procedure		
+//small program		
+sub function name():
+
+
+end sub
+
+//Lager application
+function functionName():
+
+
+run as a vba application press f5
+
+
+Question A1: WAP to input roll number, name, marks and phone of a student and display the values.
+Question A2: WAP to input roll number, name and marks of a student in 5 subjects and calculate the total and average marks. Display all the values.marks
+Question A3: WAP to find out the square of a given number.
+Question A4: WAP to input a number and print its cube.		
+Question A5: WAP to input radius and calculate the area and circumference of a circle.
+Question A6: WAP to input length and breadth of a rectangle and calculate the area and perimeter.
+
+WAP to swap the values of two integer variables
+(a)	Using extra variable
+(b)	Without using extra variable
+
+
+end function
+		
